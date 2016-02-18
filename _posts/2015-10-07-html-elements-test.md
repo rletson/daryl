@@ -6,7 +6,7 @@ categories:
 ---
 This post _demonstrates_ all the **typical** blog post Markdown elements used. To start off with, here's a full-width image. Full-width images are centered by default and do not need an extra class:
 
-![Example Image](/assets/images/example-image.jpg "Example Image")
+![Example Image](/assets/images/Maratac-Pilot-Mid-wrist.jpg "Example Image") 
 
 <img src="/assets/images/left-example-image.jpg" alt="Left-aligned image" class="l-img">
 To my left (or above if you're viewing from a small viewport) is a left-aligned image. You can use the "l-img" class to accomplish this. If the viewport is small, the image shifts to be full-width.
