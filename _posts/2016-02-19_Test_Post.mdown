@@ -2,7 +2,7 @@
 layout: post
 title:  "Watch post Test 2"
 date:   2016-02-19 16:33:00
-categories: test posts
+categories:
 ---
 
 #####This is a blog post. Watches are below.
